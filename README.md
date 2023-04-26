@@ -18,4 +18,4 @@ The player controls a snake that moves around the game board. The objective is t
 1. Clone the repository using Git:
 
 ```bash
-git clone https://github.com/yourusername/java-snake-game.git
+git clone https://github.com/AnshChoudhary/SnakeGame.git
